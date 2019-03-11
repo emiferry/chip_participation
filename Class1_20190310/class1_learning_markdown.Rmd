@@ -1,0 +1,19 @@
+---
+title: "Chip’s Class 1 Participation RMD"
+author: "Chip Galusha"
+date: "3/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Command + Alt + i adds a new r chunk..cool.
+
+```{r}
+
+```
+
