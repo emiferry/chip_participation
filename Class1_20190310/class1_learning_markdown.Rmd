@@ -9,6 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r libraries}
+
+library(tidyverse)
+library(mgcv)
+library(rstanarm)
+
+```
+
+
+
 ## R Markdown
 
 Command + Alt + i adds a new r chunk..cool.
